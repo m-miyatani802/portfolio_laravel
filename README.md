@@ -34,7 +34,7 @@ PHP
 
 # Framework
 
-laravel
+laravel 8
 
 # SQL
 
