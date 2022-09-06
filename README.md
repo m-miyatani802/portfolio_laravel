@@ -1,4 +1,4 @@
-# laravel-portfolio-①
+# laravel-portfolio
 
 ## APP概要
 わからない言葉や漢字、覚えておきたい単語などを登録し、反復して確認することによって言葉のボキャブラリーを増やす
